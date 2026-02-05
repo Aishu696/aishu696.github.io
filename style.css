@@ -77,6 +77,46 @@ footer {
     border-radius: 6px;
 }
 
+.contact-cta {
+    text-align: center;
+    padding: 60px 20px;
+    background: linear-gradient(135deg, #020617, #020617);
+}
+
+.contact-cta h2 {
+    color: #38bdf8;
+    margin-bottom: 20px;
+}
+
+.contact-cta p {
+    max-width: 700px;
+    margin: 0 auto 30px;
+    color: #cbd5f5;
+}
+
+.cta-links {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.cta-links a {
+    text-decoration: none;
+    padding: 12px 24px;
+    border-radius: 8px;
+    background-color: #38bdf8;
+    color: #020617;
+    font-weight: bold;
+    transition: transform 0.2s ease, background-color 0.2s ease;
+}
+
+.cta-links a:hover {
+    transform: translateY(-3px);
+    background-color: #0ea5e9;
+}
+
+
 
 
 
