@@ -70,4 +70,13 @@ footer {
     font-size: 1.4rem;
 }
 
+.tools ul li {
+    background: #020617;
+    margin-bottom: 10px;
+    padding: 12px;
+    border-radius: 6px;
+}
+
+
+
 
