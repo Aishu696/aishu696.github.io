@@ -116,6 +116,16 @@ footer {
     background-color: #0ea5e9;
 }
 
+.cta-links a:first-child {
+    background-color: #22c55e;
+}
+
+.cta-links a:first-child:hover {
+    background-color: #16a34a;
+}
+
+
+
 
 
 
