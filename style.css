@@ -124,6 +124,27 @@ footer {
     background-color: #16a34a;
 }
 
+.media {
+    display: flex;
+    gap: 16px;
+    flex-wrap: wrap;
+    margin-top: 15px;
+}
+
+.media img {
+    width: 280px;
+    border-radius: 10px;
+    border: 2px solid #1e293b;
+}
+
+.media iframe {
+    width: 420px;
+    height: 236px;
+    border-radius: 10px;
+    border: none;
+}
+
+
 
 
 
