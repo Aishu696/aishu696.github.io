@@ -160,6 +160,20 @@ footer {
     font-weight: 600;
 }
 
+.projects-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+    gap: 30px;
+}
+
+.project {
+    background: #020617;
+    padding: 20px;
+    border-radius: 12px;
+}
+
+
+
 
 
 
