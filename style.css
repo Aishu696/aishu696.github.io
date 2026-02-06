@@ -227,6 +227,34 @@ footer {
     background: #16a34a;
 }
 
+.navbar {
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+    background: #020617;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 20px;
+    border-bottom: 1px solid #1e293b;
+}
+
+.navbar h1 {
+    font-size: 1.2rem;
+}
+
+.navbar nav a {
+    margin-left: 20px;
+    text-decoration: none;
+    color: #94a3b8;
+    font-weight: 600;
+}
+
+.navbar nav a:hover {
+    color: #38bdf8;
+}
+
+
 
 
 
