@@ -184,6 +184,11 @@ footer {
     transform: translateY(0);
 }
 
+.no-js .project {
+    opacity: 1;
+    transform: none;
+}
+
 
 
 
