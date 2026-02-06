@@ -68,6 +68,7 @@ footer {
     margin-bottom: 20px;
     color: #22d3ee;
     font-size: 1.4rem;
+    text-align: left;
 }
 
 .tools ul li {
@@ -187,6 +188,7 @@ footer {
     opacity: 1;
     transform: none;
 }
+
 
 
 
