@@ -144,6 +144,23 @@ footer {
     border: none;
 }
 
+.tech {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin: 10px 0 15px;
+}
+
+.tech span {
+    background: #0ea5e9;
+    color: #020617;
+    padding: 4px 10px;
+    border-radius: 999px;
+    font-size: 0.75rem;
+    font-weight: 600;
+}
+
+
 
 
 
